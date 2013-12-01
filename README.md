@@ -2,7 +2,7 @@
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
-***
+****
 
 ## Quick Start
 
